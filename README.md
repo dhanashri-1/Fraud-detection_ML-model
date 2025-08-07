@@ -32,6 +32,10 @@ A machine learning model to detect fraudulent transactions using a real-world im
 3. Run model:
    ```bash
    python fraud_detection.py
+
+https://github.com/user-attachments/assets/5e837723-51ac-4672-bdb2-32f126dce2fe
+
+
    ```
 4. Run Streamlit app:
    ```bash
